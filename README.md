@@ -1,3 +1,4 @@
 # Repository_1
 Master : This is a sample Repository
-Master : This has one README file
+Branch : This is a sample branch
+Branch : This has a copy of ReadMe.md
